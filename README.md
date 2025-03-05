@@ -1,4 +1,5 @@
-# test dynamic programming for lcs
+# test dynamic programming for lcs (Longest Common Subsequence)
 
 ## chatGTP solution
 [https://chatgpt.com/share/67c7e01f-21c4-800f-9c91-f8923852bcab](https://chatgpt.com/share/67c7e01f-21c4-800f-9c91-f8923852bcab)
+
